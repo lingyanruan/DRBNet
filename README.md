@@ -53,9 +53,9 @@ Download and unzip test sets ([LFDOF](https://sweb.cityu.edu.hk/miullam/AIFNET/)
 ```shell
 python run.py
 ```
-## Performance improved on existing works when adopting our training strategy - [DPDNet & KPAC]
+## Performance improved on existing works - [DPDNet & KPAC]
 
-You may go for [DPDNet](https://github.com/lingyanruan/DPDNet) and [KPAC-Net](https://github.com/lingyanruan/KPAC-Net) for their improved version, which as reported in Table 4 in main paper.
+You may go for [DPDNet](https://github.com/lingyanruan/DPDNet) and [KPAC-Net](https://github.com/lingyanruan/KPAC-Net) for their improved version. Details could be found in [Why LFDOF?] section (Table 4 & Figure 8) in the main paper.
 
 ## Relevant Resources
 
