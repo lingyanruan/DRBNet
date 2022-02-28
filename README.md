@@ -1,6 +1,6 @@
 ## Learning to Deblur using Light Field Generated and Real Defocused Images
 
-![License CC BY-NC](https://img.shields.io/badge/license-GNU_AGPv3-green.svg?style=flat)
+![License CC BY-NC](https://img.shields.io/badge/License-GNU_AGPv3-yellowgreen.svg?style=flat)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jvfbn8HnWAmgTKFpU8fW56wXSbe1S2QI?usp=sharing)
 
 <img src="./assets/teaser.png" width="50%" alt="teaser figure">
@@ -25,9 +25,9 @@ If you find our code useful, please consider citing our paper:
 ### Prerequisites
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-16.0.4%20&%2018.0.4-blue.svg?style=plastic)
-![Python](https://img.shields.io/badge/Python-3.8.8-green.svg?style=plastic)
-![CUDA](https://img.shields.io/badge/CUDA-10.2%20-green.svg?style=plastic)
-![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0-green.svg?style=plastic)
+![Python](https://img.shields.io/badge/Python-3.8.8-yellowgreen.svg?style=plastic)
+![CUDA](https://img.shields.io/badge/CUDA-10.2%20-yellowgreen.svg?style=plastic)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.8.0-yellowgreen.svg?style=plastic)
 
 Notes: the code may also work with other library versions that didn't specify here.
 
