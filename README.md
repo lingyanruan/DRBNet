@@ -1,4 +1,4 @@
-# Learning to Deblur using Light Field Generated and Real Defocused Images
+## Learning to Deblur using Light Field Generated and Real Defocused Images
 
 ![License CC BY-NC](https://img.shields.io/badge/license-GNU_AGPv3-green.svg?style=flat)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jvfbn8HnWAmgTKFpU8fW56wXSbe1S2QI?usp=sharing)
@@ -7,7 +7,7 @@
 
 This repository contains the official PyTorch implementation of the following paper:
 
-> **[Learning to Deblur using Light Field Generated and Real Defocused Images](https://www.dropbox.com/s/33ix3yzqz0q7xce/IFAN_main.pdf?raw=1)**<br>
+> **[Learning to Deblur using Light Field Generated and Real Defocused Images](placeholder)**<br>
 > Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）
 
 Please also refer to our **[PROJECT PAGE](https://XI5TAU4HRB3HSAKW.anvil.app/FJJ5EACSBF63RE7RQL2K6ZDZ)** and **[INTERACTIVE WEB APP](https://XI5TAU4HRB3HSAKW.anvil.app/FJJ5EACSBF63RE7RQL2K6ZDZ")** for more details.
