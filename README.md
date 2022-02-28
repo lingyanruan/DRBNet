@@ -51,7 +51,7 @@ Download and unzip test sets ([LFDOF](https://sweb.cityu.edu.hk/miullam/AIFNET/)
 #### 4. Command Line
 
 ```shell
-python run.py
+python Eval.py
 ```
 ## Performance improved on existing works - [DPDNet & KPAC]
 
