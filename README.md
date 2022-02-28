@@ -42,7 +42,7 @@ $ cd DRBNet
 
 #### 2. Pre-trained models
 
-Download and unzip [pretrained weights](https://drive.google.com/drive/folders/1VC-eiqNLWcawa5mn3wqwipHbhKRuYz9h?usp=sharing) under `./weight/`:
+Download and unzip [pretrained weights](placeholder) under `./weight/`:
 
 #### 3. Datasets
 
@@ -53,6 +53,9 @@ Download and unzip test sets ([LFDOF](https://sweb.cityu.edu.hk/miullam/AIFNET/)
 ```shell
 python run.py
 ```
+## Performance improved on existing works - [DPDNet & KPAC]
+
+You may go for [DPDNet](https://github.com/lingyanruan/DPDNet) and [KPAC-Net](https://github.com/lingyanruan/KPAC-Net) for their improved version as Table 4 reported in main paper .
 
 ## Relevant Resources
 
