@@ -36,7 +36,7 @@ Notes: the code may also work with other library versions that didn't specify he
 Clone this project to your local machine
 
 ```bash
-$ git clone https://github.com/lyruanruan/DRBNet.git
+$ git clone https://github.com/lingyanruan/DRBNet.git
 $ cd DRBNet
 ```
 
