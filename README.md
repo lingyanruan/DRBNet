@@ -42,7 +42,7 @@ $ cd DRBNet
 
 #### 2. Pre-trained models
 
-Download and unzip [pretrained weights](https://drive.google.com/file/d/1SK-VlIpWMbzxNcq5lLFzHE3m7HgadGCc/view?usp=sharing) under `./weight/`:
+Download and unzip [pretrained weights](https://drive.google.com/drive/folders/1VC-eiqNLWcawa5mn3wqwipHbhKRuYz9h?usp=sharing) under `./weight/`:
 
 #### 3. Datasets
 
