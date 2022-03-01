@@ -55,7 +55,7 @@ python Eval.py
 ```
 ## Performance improved on existing works - [DPDNet & KPAC]
 
-You may go for [DPDNet](https://github.com/lingyanruan/DPDNet) and [KPAC-Net](https://github.com/lingyanruan/KPAC-Net) for their improved version. Details could be found in [Why LFDOF?] section (Table 4 & Figure 8) in the main paper. Their original version could be found [DPDNet-scr](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel) and [KPAC-Net-scr](https://github.com/lingyanruan/KPAC-Net)
+You may go for [DPDNet](https://github.com/lingyanruan/DPDNet) and [KPAC-Net](https://github.com/lingyanruan/KPAC-Net) for their improved version. Details could be found in [Why LFDOF?] section (Table 4 & Figure 8) in the main paper. Their original version could be found [Here: DPDNet-scr](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel) and [Here: KPAC-Net-scr](https://github.com/lingyanruan/KPAC-Net)
 
 ## Relevant Resources
 
