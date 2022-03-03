@@ -10,7 +10,7 @@ This repository contains the official PyTorch implementation of the following pa
 > **[Learning to Deblur using Light Field Generated and Real Defocused Images](placeholder)**<br>
 > Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）
 
-Please also refer to our **[PROJECT PAGE](https://XI5TAU4HRB3HSAKW.anvil.app/FJJ5EACSBF63RE7RQL2K6ZDZ)** and **[INTERACTIVE WEB APP](https://XI5TAU4HRB3HSAKW.anvil.app/FJJ5EACSBF63RE7RQL2K6ZDZ)** for more details.
+Please also refer to our **[PROJECT PAGE](placeholder)** and **[INTERACTIVE WEB APP](placeholder)** for more details.
 
 If you find our code useful, please consider citing our paper:
 
