@@ -7,10 +7,11 @@
 
 This repository contains the official PyTorch implementation of the following paper:
 
-> **[Learning to Deblur using Light Field Generated and Real Defocused Images](placeholder)**<br>
-> Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）
+> **[Learning to Deblur using Light Field Generated and Real Defocused Images](https://arxiv.org/pdf/2204.00367.pdf)**<br>
+> Lingyan Ruan<sup>\*</sup>, Bin Chen<sup>\*</sup>, Jizhou Li, Miuling Lam （\* equal contribution）<br>
+> IEEE Computer Vision and Pattern Recognition (**CVPR Oral**) 2022
 
-Please also refer to our **[PROJECT PAGE](placeholder)** and **[INTERACTIVE WEB APP](placeholder)** for more details.
+**[PROJECT PAGE](http://lyruan.com/Projects/DRBNet/index.html)** | **[INTERACTIVE WEB APP](https://xi5tau4hrb3hsakw.anvil.app/FJJ5EACSBF63RE7RQL2K6ZDZ)**
 
 If you find our code useful, please consider citing our paper:
 
@@ -53,6 +54,7 @@ Download and unzip test sets ([LFDOF](https://sweb.cityu.edu.hk/miullam/AIFNET/)
 ```shell
 python Eval.py
 ```
+
 ## Performance improved on existing works - [DPDNet & KPAC]
 
 You may go for [DPDNet](https://github.com/lingyanruan/DPDNet) and [KPAC-Net](https://github.com/lingyanruan/KPAC-Net) for their improved version. Details could be found in [Why LFDOF?] section (Table 4 & Figure 8) in the main paper. Their original version could be found [Here: DPDNet-scr](https://github.com/Abdullah-Abuolaim/defocus-deblurring-dual-pixel) and [Here: KPAC-Net-scr](https://github.com/lingyanruan/KPAC-Net)
