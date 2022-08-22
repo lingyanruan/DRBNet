@@ -37,7 +37,7 @@ if args.DPDD:
     print('Extracting DPDD test set...')
     shutil.unpack_archive('datasets/DPDD.zip', 'datasets')
     os.remove('datasets/DPDD.zip')
-    print('Successfully download DPDD!!!!!!!!')
+    print('Successfully download DPDD!')
 
 if args.RealDOF:
     print('RealDOF Testing Data!')
@@ -45,7 +45,7 @@ if args.RealDOF:
     print('Extracting RealDOF test set...')
     shutil.unpack_archive('datasets/RealDOF.zip', 'datasets')
     os.remove('datasets/RealDOF.zip')
-    print('Successfully download RealDOF!!!!!!!!')
+    print('Successfully download RealDOF!')
 
 if args.CUHK:
     print('CUHK Testing Data!')
@@ -53,7 +53,7 @@ if args.CUHK:
     print('Extracting CUHK test set...')
     shutil.unpack_archive('datasets/CUHK.zip', 'datasets')
     os.remove('datasets/CUHK.zip')
-    print('Successfully download CUHK!!!!!!!!')
+    print('Successfully download CUHK!')
 
 if args.PixelDP:
     print('PixelDP Testing Data!')
@@ -61,5 +61,5 @@ if args.PixelDP:
     print('Extracting PixelDP test set...')
     shutil.unpack_archive('datasets/PixelDP.zip', 'datasets')
     os.remove('datasets/PixelDP.zip')
-    print('Successfully download PixelDP!!!!!!!!')
+    print('Successfully download PixelDP!')
 
