@@ -1,7 +1,6 @@
 '''
-This source code is licensed under the license found in the LICENSE file in
-the root directory of this source tree.
-Note: this code is the implementation of the "Learning to deblur using light field generated and real defocus images" paper accepted to CVPR 2022. 
+This source code is licensed under the license found in the LICENSE file.
+This is the implementation of the "Learning to deblur using light field generated and real defocus images" paper accepted to CVPR 2022. 
 Project GitHub repository: https://github.com/lingyanruan/DRBNet
 Email: lyruanruan@gmail.com
 Copyright (c) 2022-present, Lingyan Ruan
