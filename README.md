@@ -102,6 +102,4 @@ Acknowledgment: Some of the codes are based on the [IFAN](https://github.com/cod
 ## License
 
 This software is being made available under the terms in the [LICENSE](LICENSE) file.
-con·sid·er
-Think carefully about (something), typically before making a decision.
-More »
+
