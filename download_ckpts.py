@@ -21,6 +21,6 @@ gdown.download(id=ckpt_test, output='ckpts/ckpts.zip', quiet=False)
 print('Extracting ckpts ......')
 shutil.unpack_archive('ckpts/ckpts.zip')
 os.remove('ckpts/ckpts.zip')
-print('Successfully download weight!!!!!!!!')
+print('Successfully download weight!')
 
 
